@@ -1,30 +1,33 @@
-# Hi there 👋 I'm **Saureet**
+# 👋 Hi, I'm **Saureet**
 
-**Computer Science Student · AI/ML · Full-Stack Development · Robotics**
+### **Computer Science Student · AI/ML · Software · Robotics**
 
-> Building things, breaking things, and learning how they work.
+I'm interested in **building intelligent systems** and understanding the technology behind them — from **machine learning and software development to robotics and automation**.
 
 <br>
 
-### 🚀 Currently
+### 🚀 Currently building & learning
 
-* 🌱 Learning **AI/ML, DSA & Full-Stack Development**
-* 🔭 Building **AI-powered and real-world projects**
-* 🤖 Exploring **Robotics, Automation & Intelligent Systems**
-* 👯 Open to **interesting projects & collaborations**
+**AI/ML** · **Full-Stack Development** · **DSA** · **Robotics** · **Open Source**
 
-### 🛠️ Tech
+I learn best by **building real projects**, solving problems, and going deeper than just making things work.
+
+<br>
+
+### 🛠️ Tech I work with
 
 **Python · C++ · JavaScript · HTML · CSS · Git · Linux · Scikit-learn**
 
-### 🎯 Goal
+<br>
 
-**Build intelligent systems that solve real-world problems.**
+### 🎯 What I'm working towards
+
+> **Building technology that can think, learn, and interact with the real world.**
 
 <br>
 
-[**Explore my projects →**](https://github.com/saureetc007)
+**Learn → Build → Break → Improve**
 
 ---
 
-*Learn · Build · Break · Improve*
+📫 **Open to:** Collaboration · Open Source · Interesting Ideas
