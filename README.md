@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm **Saureet**
 
-<!--
-**saureetc007/saureetc007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student · AI/ML · Full-Stack Development · Robotics**
 
-Here are some ideas to get you started:
+> Building things, breaking things, and learning how they work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🚀 Currently
+
+* 🌱 Learning **AI/ML, DSA & Full-Stack Development**
+* 🔭 Building **AI-powered and real-world projects**
+* 🤖 Exploring **Robotics, Automation & Intelligent Systems**
+* 👯 Open to **interesting projects & collaborations**
+
+### 🛠️ Tech
+
+**Python · C++ · JavaScript · HTML · CSS · Git · Linux · Scikit-learn**
+
+### 🎯 Goal
+
+**Build intelligent systems that solve real-world problems.**
+
+<br>
+
+[**Explore my projects →**](https://github.com/saureetc007)
+
+---
+
+*Learn · Build · Break · Improve*
