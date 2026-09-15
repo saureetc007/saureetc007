@@ -158,7 +158,7 @@ Open Source                ████████░░░░░░░░░�
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! ⭐</i>
+  <i>Thank you! ⭐</i>
 </p>
 
 <p align="center">
